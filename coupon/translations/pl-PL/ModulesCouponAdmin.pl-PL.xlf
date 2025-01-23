@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin641yl2ndzjkyj7dlud7" source-language="pl-PL" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="adb6e651c47c732f9af50ae33748feaa">
+        <source>Coupon</source>
+        <target>Kupon</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0a9ded60565e6f5ea0e860af190de28c">
+        <source>Design a compelling discount popup to drive sales!</source>
+        <target>Zaprojektuj atrakcyjne okienko z rabatem, aby zwiększyć sprzedaż!
+</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="44d7b2036166452a10240ddf1d7e93b0">
+        <source>Are you sure you want to uninstall ?</source>
+        <target>Czy jesteś pewien, że chcesz odinstalować ?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ab40423db42536d47afdaf6bae15d43d">
+        <source>Invalid configuration value.</source>
+        <target>Nieprawidłowa wartość konfiguracyjna</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f38f5974cdc23279ffe6d203641a8bdf">
+        <source>Settings updated.</source>
+        <target>Zaktualizowano ustawienia</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f4f70727dc34561dfde1a3c529b6205c">
+        <source>Settings</source>
+        <target>Ustawienia</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1b9df8b1a5ce94da63ec58b7be66f384">
+        <source>Coupon content</source>
+        <target>Treść kuponu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d115b25a7e62e63f83d36f69397816bc">
+        <source>Additional message you want to convey to your customers.</source>
+        <target>Wiadomość, którą chcesz przekazać swoim klientom.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d29c83f3b1cdf95ebbc60bb5ea1f0c72">
+        <source>Cart rule ID</source>
+        <target>ID reguły koszyka</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7add9a0651bb6afb774d387fcffc04ec">
+        <source>Coupon display duration to customer in seconds.</source>
+        <target>Czas wyświetlania kuponu klientowi w sekundach</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="caf824801ed13fd63bc4748134c45e7e">
+        <source>Default is 15 seconds.</source>
+        <target>Domyślnie ustawiona wartość to 15 sekund</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ab25a55c3fdf7ed1d601aded75528a25">
+        <source>Pause between each coupon display in seconds.</source>
+        <target>Czas przerwy pomiędzy wyświetleniem kuponu w sekundach</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="864be22395b0fb1b1c4fd2413b4c3951">
+        <source>Default is 35 seconds.</source>
+        <target>Domyślnie ustawiona wartość to 35 sekund</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2d313b0fd90fa1ac7070f34d0dbad73b">
+        <source>Coupon background color.</source>
+        <target>Kolor tła kuponu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Zapisz</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

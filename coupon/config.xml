@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>coupon</name>
+    <displayName><![CDATA[Coupon]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[Design a compelling discount popup to drive sales!]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

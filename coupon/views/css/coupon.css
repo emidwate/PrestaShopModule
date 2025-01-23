@@ -1,0 +1,92 @@
+.active-coupon {
+    top: 45% !important;
+    transition: 1.5s;
+}
+
+.coupon-container {
+    flex-direction: column;
+    box-sizing: border-box;
+    max-height: 550px;
+    max-width: 470px;
+    min-width: 330px;
+    position: fixed;
+    top: -400px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px black;
+    background-color: white;
+    font-weight: 600;
+}
+
+.coupon-main-image {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.coupon-exit-btn {
+    padding: 5px 9px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border: 1px solid whitesmoke;
+    border-radius: 50%;
+    color: whitesmoke;
+    background-color: #26262659;
+}
+
+.coupon-exit-btn:hover {
+    cursor: pointer;
+}
+
+.coupon-content-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.coupon-top-section,
+.coupon-bottom-section {
+    margin-top: 20px;
+    padding: 0px 20px;
+    text-align: center;
+    overflow-wrap: break-word;
+}
+
+.coupon-top-section {
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+}
+
+.coupon-bottom-section {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.coupon-text {
+    margin: 0;
+    color: #262626;
+}
+
+.coupon-show-code-btn {
+    padding: 7px 5px;
+    border: none;
+    border-radius: 7px;
+    background-color: rgb(74, 150, 238);
+    color: whitesmoke;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.coupon-show-code-btn:hover {
+    cursor: pointer;
+    background-color: rgb(43, 132, 233);
+}
+
+.clipboard-message {
+    margin-bottom: 15px;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin641yl2ndzjkyj7dlud7" source-language="pl-PL" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="983d95f04fbb5ea42b69f8fa6b0f9798">
+        <source>Get %discountAmount% OFF from your next purchase!</source>
+        <target>Otrzymaj %discountAmount% zniżki na następny zakup!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a5fe0d11b33293c7a6475591d5239d3c">
+        <source>Valid through %discountExpirationDate%</source>
+        <target>Obowiązuje do %discountExpirationDate%</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="51935f86feb294a79db9f0c7be8bd32b">
+        <source>Show code</source>
+        <target>Pokaż kod</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
